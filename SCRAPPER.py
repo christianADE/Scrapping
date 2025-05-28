@@ -223,7 +223,7 @@ if __name__ == "__main__":
     app = ttk.Window(
         themename="superhero",  # Thème élégant - autres options: 'cosmo', 'flatly', 'journal', etc.
         title="WebAnalyzer Pro",
-        iconphoto="logo.jpg",  # Ajoutez le chemin vers votre icône
+        iconphoto="",  # Ajoutez le chemin vers votre icône
         size=(800, 650),
         resizable=(True, True))
     
