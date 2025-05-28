@@ -4,6 +4,15 @@
 
 ---
 
+---
+
+## ⚠️ Avertissement
+
+**Cette application est fournie uniquement à des fins éducatives.**
+
+> 🛑 **L’auteur décline toute responsabilité en cas d’usage malveillant ou de dommages causés par l’utilisation de ce logiciel.**  
+> Utilisez ce projet de manière éthique et responsable. 👌
+
 ## 🎯 Fonctionnalités
 
 - Interface moderne avec `ttkbootstrap`
@@ -30,7 +39,7 @@
 
 ## Aperçu de l'application
 
-![Interface WebAnalyzer Pro](interface.png)
+![Interface WebAnalyzer Pro](interface.PNG)
 
 ---
 
